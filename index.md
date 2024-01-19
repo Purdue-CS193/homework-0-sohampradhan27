@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## Soham's First CS193 Homework
+
+Some of my favorite things about **CS193**
+- only meets once a week
+- TAs are students who have taken CS classes
+- helpful training for cs future
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
